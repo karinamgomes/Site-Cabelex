@@ -5,6 +5,8 @@
 
 <h1 align="center">
   <img alt="cabelex" title="#cabelex" src="cabelex/src/assets/gifCabelex.gif" />
+  <img alt="cabelexImage" title="#cabelex" src="cabelex/src/assets/cabelexReadMe.png" />
+    
 </h1>
 
 ### 🛠️ Features
@@ -27,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [NodeJS](https://nodejs.org/en/)
   
  ### 🛠 Como instalar no seu PC
- *Front-End:
+ Front-End:
  
  * Abrir a pasta cabelex e seguir os seguintes passos:
  * Atráves do npm
@@ -50,7 +52,7 @@ OU
    ```sh
    npm start
    ```
-  *Back-End:
+ Back-End:
  
  * Abrir a pasta cabelex-api e seguir os seguintes passos:
  * Atráves do npm
@@ -73,6 +75,9 @@ OU
    ```sh
    npm run dev
    ```
+   
+  USUÁRIO: carlos@outlook.com
+  SENHA: 2897564A
  ---
  ### ✨Autor
 
