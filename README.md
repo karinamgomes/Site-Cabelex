@@ -4,7 +4,7 @@
 <p align="center"💻Site para organizar as finanças, funcionários e filiais de uma loja de produtos de cabelo. </p>
 
 <h1 align="center">
-  <img alt="cabelex" title="#cabelex" src="assets/gifCabelex.gif" />
+  <img alt="cabelex" title="#cabelex" src="src/assets/gifCabelex.gif" />
 </h1>
 
 ### 🛠️ Features
@@ -21,7 +21,7 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Figma] Acesso ao protótipo no link:(https://expo.io/)
+- [Figma] Acesso ao protótipo no link:(https://www.figma.com/file/FYqXI4iSidaSVSFBMMH9CA/Cabelex)
 - [ReactJS](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [NodeJS](https://nodejs.org/en/)
