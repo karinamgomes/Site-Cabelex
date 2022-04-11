@@ -12,7 +12,6 @@ interface AuthenticateRequestInterface{
 class AuthenticateUserService{
     async execute({email,password}:AuthenticateRequestInterface){
         const userRepositories = getCustomRepository(UsersRepositories);
-        console.log("password")
         const user = await userRepositories.findOne({email});
 
         if(!user)
