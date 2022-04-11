@@ -76,7 +76,9 @@ OU
    npm run dev
    ```
    
+  Credenciais de login:
   USUÁRIO: carlos@outlook.com
+  
   SENHA: 2897564A
  ---
  ### ✨Autor
